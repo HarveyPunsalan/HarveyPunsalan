@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I'm Harvey 👋
 
-<!--
-**HarveyPunsalan/HarveyPunsalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year BSIT student - Software Development track.
+Building my way into full-stack, one project at a time.
 
-Here are some ideas to get you started:
+**Currently working on**
+- 🔖 Linkspace - smart bookmark manager with AI tagging & semantic search (WIP)
+- 🧋 Milk tea shop landing page - Next.js frontend project (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**When I'm not coding**
+- 🚴 Biking
+- 🎮 Playing games
+
+
