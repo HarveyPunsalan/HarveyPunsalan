@@ -1,4 +1,4 @@
-## Hey, I'm Harvey 👋
+## Hey, I'm Harvey ☕
 
 3rd year BSIT student - Software Development track.
 Building my way into full-stack, one project at a time.
