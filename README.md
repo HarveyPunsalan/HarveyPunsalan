@@ -3,7 +3,7 @@
 <p align="center"><b>4th year BSIT · Major in Software Development</b></p>
 
 - 🎓 Learning full-stack the hard way, by building things I probably shouldn't have started yet
-- 🛠️ Building: [Lumen](https://github.com/HarveyPunsalan/Lumen) and Seatmate (in progress)
+- 🛠️ Building: [Lumen](https://github.com/HarveyPunsalan/Lumen) and Seatmate
 - 💰 Also working on **PesZO**, a financial life sim game that teaches personal finance through random scenarios
 - 🌱 Started contributing to open source, still learning the ropes
 - 💡 I build things that annoy me until they stop annoying me 😅
